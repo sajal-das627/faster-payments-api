@@ -1,0 +1,24 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore configuration files containing API keys
+config.js
+
+# Ignore log files
+logs.log
+
+# Ignore auto-generated files
+package-lock.json
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore editor settings (VS Code, WebStorm, etc.)
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
