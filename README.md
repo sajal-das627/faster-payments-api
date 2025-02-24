@@ -1,5 +1,5 @@
 1️⃣ Generate Authentication Token
-curl -X POST http://localhost:5000/auth/token \
+curl -X POST http://localhost:6000/auth/token \
      -H "Content-Type: application/x-www-form-urlencoded"
 
 📌 Response:
@@ -9,7 +9,7 @@ curl -X POST http://localhost:5000/auth/token \
   "expires_in": 3600
 }
 2️⃣ Get Limits
-curl -X GET http://localhost:5000/limits/123456789/sandbox \
+curl -X GET http://localhost:6000/limits/123456789/sandbox \
      -H "Authorization: Bearer your_jwt_token" \
      -H "Content-Type: application/json"
 📌 Response:
@@ -30,7 +30,7 @@ curl -X GET http://localhost:5000/limits/123456789/sandbox \
 }
 
 3️⃣ Add New Limit
-curl -X POST http://localhost:5000/limits/123456789/sandbox \
+curl -X POST http://localhost:6000/limits/123456789/sandbox \
      -H "Authorization: Bearer your_jwt_token" \
      -H "Content-Type: application/json" \
      -d '{
@@ -62,7 +62,7 @@ curl -X POST http://localhost:5000/limits/123456789/sandbox \
   ]
 }
 4️⃣ Update Existing Limit
-curl -X PUT http://localhost:5000/limits/123456789/sandbox \
+curl -X PUT http://localhost:6000/limits/123456789/sandbox \
      -H "Authorization: Bearer your_jwt_token" \
      -H "Content-Type: application/json" \
      -d '{
@@ -94,7 +94,7 @@ curl -X PUT http://localhost:5000/limits/123456789/sandbox \
   ]
 }
 5️⃣ Delete Limit
-curl -X DELETE http://localhost:5000/limits/123456789/sandbox \
+curl -X DELETE http://localhost:6000/limits/123456789/sandbox \
      -H "Authorization: Bearer your_jwt_token" \
      -H "Content-Type: application/json" \
      -d '{
@@ -113,7 +113,7 @@ HTTP/1.1 204 No Content
 
 📌 1. Authentication API (Token Generation)
 🔹 Test: Invalid Credentials
-curl -X POST http://localhost:5000/auth/token
+curl -X POST http://localhost:6000/auth/token
 📌 Response:
 {
   "responseCode": 401,
@@ -128,7 +128,7 @@ curl -X POST http://localhost:5000/auth/token
 }
 📌 2. Get Limits API
 🔹 Test: Invalid Token
-curl -X GET http://localhost:5000/limits/123456789/sandbox \
+curl -X GET http://localhost:6000/limits/123456789/sandbox \
      -H "Authorization: Bearer invalid_token"
 📌 Response:
 {
@@ -143,7 +143,7 @@ curl -X GET http://localhost:5000/limits/123456789/sandbox \
   ]
 }
 🔹 Test: Missing Required Headers
-curl -X GET http://localhost:5000/limits/123456789/sandbox
+curl -X GET http://localhost:6000/limits/123456789/sandbox
 📌 Response:
 {
   "responseCode": 400,
@@ -159,7 +159,7 @@ curl -X GET http://localhost:5000/limits/123456789/sandbox
 
 📌 3. Post Limits API (Add Limits)
 🔹 Test: Missing identifier Field
-curl -X POST http://localhost:5000/limits/123456789/sandbox \
+curl -X POST http://localhost:6000/limits/123456789/sandbox \
      -H "Authorization: Bearer valid_token" \
      -H "Content-Type: application/json" \
      -d '{
@@ -186,7 +186,7 @@ curl -X POST http://localhost:5000/limits/123456789/sandbox \
   ]
 }
 🔹 Test: Invalid limitValue Type
-curl -X POST http://localhost:5000/limits/123456789/sandbox \
+curl -X POST http://localhost:6000/limits/123456789/sandbox \
      -H "Authorization: Bearer valid_token" \
      -H "Content-Type: application/json" \
      -d '{
@@ -215,7 +215,7 @@ curl -X POST http://localhost:5000/limits/123456789/sandbox \
 }
 📌 4. Put Limits API (Update Limits)
 🔹 Test: Invalid range Value
-curl -X PUT http://localhost:5000/limits/123456789/sandbox \
+curl -X PUT http://localhost:6000/limits/123456789/sandbox \
      -H "Authorization: Bearer valid_token" \
      -H "Content-Type: application/json" \
      -d '{
@@ -243,7 +243,7 @@ curl -X PUT http://localhost:5000/limits/123456789/sandbox \
   ]
 }
 🔹 Test: Update Limit Without Required Fields
-curl -X PUT http://localhost:5000/limits/123456789/sandbox \
+curl -X PUT http://localhost:6000/limits/123456789/sandbox \
      -H "Authorization: Bearer valid_token" \
      -H "Content-Type: application/json" \
      -d '{}'
@@ -261,7 +261,7 @@ curl -X PUT http://localhost:5000/limits/123456789/sandbox \
 }
 📌 5. Delete Limits API
 🔹 Test: Invalid type Value
-curl -X DELETE http://localhost:5000/limits/123456789/sandbox \
+curl -X DELETE http://localhost:6000/limits/123456789/sandbox \
      -H "Authorization: Bearer valid_token" \
      -H "Content-Type: application/json" \
      -d '{
@@ -288,7 +288,7 @@ curl -X DELETE http://localhost:5000/limits/123456789/sandbox \
   ]
 }
 🔹 Test: Delete Limit Without limits Field
-curl -X DELETE http://localhost:5000/limits/123456789/sandbox \
+curl -X DELETE http://localhost:6000/limits/123456789/sandbox \
      -H "Authorization: Bearer valid_token" \
      -H "Content-Type: application/json" \
      -d '{
