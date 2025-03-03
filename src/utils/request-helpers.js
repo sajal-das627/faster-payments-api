@@ -11,11 +11,11 @@ const generateHeaders = (token) => {
     "Content-Type": "application/json",
     "X-Request-ID": uuidv4(),
     "X-Correlation-ID": uuidv4(),
-    "X-AuditUserId": "admin",
+    "X-AuditUserId": "texasbankuser",
     PaymentNetwork: "Zelle",
     LimitScope: "User",
     Direction: "Outbound",
-    Identifier: "user@example.com",
+    Identifier: "cutexaslimittest1@jackhenry.com",
   };
 };
 

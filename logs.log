@@ -19328,3 +19328,515 @@
 {"level":"error","message":"Authentication Error","timestamp":"2025-02-24T11:10:39.941Z"}
 {"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:11:13.237Z"}
 {"level":"error","message":"Authentication Error","timestamp":"2025-02-24T11:11:14.152Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:21:48.125Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T11:21:48.139Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:33:27.861Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T11:33:27.864Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:37:03.396Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T11:37:03.398Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:40:43.764Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T11:40:43.767Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:45:15.147Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T11:45:15.156Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-24T11:50:19.612Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:50:41.666Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:51:15.158Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:52:03.283Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:53:11.138Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:53:40.983Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:57:58.413Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:58:00.072Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-24T11:58:37.699Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T11:59:20.635Z"}
+{"level":"error","message":"Authentication Failed","timestamp":"2025-02-24T11:59:20.640Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:01:22.706Z"}
+{"level":"error","message":"Authentication Failed","timestamp":"2025-02-24T12:01:22.710Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:01:31.981Z"}
+{"level":"error","message":"Authentication Failed","timestamp":"2025-02-24T12:01:31.985Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-24T12:01:48.637Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-24T12:04:31.642Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-24T12:04:50.049Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:05:14.974Z"}
+{"level":"error","message":"Authentication Failed","timestamp":"2025-02-24T12:05:14.978Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:05:45.530Z"}
+{"level":"error","message":"Authentication Failed","timestamp":"2025-02-24T12:05:45.534Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:06:06.243Z"}
+{"level":"error","message":"Authentication Failed","timestamp":"2025-02-24T12:06:06.248Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-24T12:06:18.358Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:06:43.822Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:07:15.009Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:07:37.258Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-24T12:07:46.127Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:08:33.989Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T12:08:33.993Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:08:39.261Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T12:08:39.263Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:09:04.003Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T12:09:04.006Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:09:30.013Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T12:09:30.015Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:26:23.280Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T12:26:23.309Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:26:34.604Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T12:26:34.608Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:27:14.061Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T12:27:14.063Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:27:16.058Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T12:27:16.070Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:27:53.065Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T12:27:53.067Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T12:28:22.068Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T12:28:22.073Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T16:42:57.365Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T16:42:59.132Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-24T16:43:58.767Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-24T16:43:58.775Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-24T16:45:49.741Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-24T16:54:27.588Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-24T17:00:18.088Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-24T17:03:44.177Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-24T17:05:34.748Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-24T17:09:59.786Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-24T17:15:12.506Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-24T17:58:44.438Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-25T16:30:27.876Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-25T16:32:22.778Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-25T16:32:22.781Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-25T16:32:56.522Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-25T16:32:56.524Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-26T08:44:56.634Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-26T08:45:25.523Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-26T08:45:25.526Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-26T17:28:59.597Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-26T17:28:59.607Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-26T17:32:27.373Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-26T17:32:27.376Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T18:09:29.828Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T19:42:25.533Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T19:42:25.544Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-27T19:56:36.161Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-27T19:56:43.669Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T19:58:03.979Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T20:07:40.043Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T20:07:58.168Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-27T20:08:40.152Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-27T20:09:04.535Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-27T20:09:47.153Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-27T20:09:49.301Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-27T20:13:02.762Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-27T20:16:22.543Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-27T20:16:46.599Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-27T20:17:00.355Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:19:45.889Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:19:45.890Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-27T20:23:35.804Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T20:24:32.468Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T20:25:22.483Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T20:26:11.797Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-27T20:26:21.552Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-27T20:26:21.559Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T20:27:22.218Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-27T20:28:31.029Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-27T20:28:31.030Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:28:53.628Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:28:53.633Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:28:56.106Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:28:56.109Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:28:57.875Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:28:57.878Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:29:30.708Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:29:30.713Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T20:29:38.163Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T20:29:49.159Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:29:54.202Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:29:54.205Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:30:26.162Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:30:26.166Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:30:37.949Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:30:37.952Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-27T20:31:25.209Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-27T20:31:25.212Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-27T20:33:10.851Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-27T20:33:10.853Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:34:01.629Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:34:01.630Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:34:03.475Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:34:03.476Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:34:04.934Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:34:04.936Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:34:52.390Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:34:52.391Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:34:56.968Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:34:56.969Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:34:59.089Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:34:59.090Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T20:38:40.745Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:39:14.941Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:39:14.943Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:39:30.859Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:39:30.862Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-27T20:40:30.076Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-27T20:40:49.841Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-27T20:40:51.690Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-27T20:44:33.027Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-27T20:44:45.296Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-27T20:51:29.675Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-27T20:51:32.210Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-27T20:53:13.292Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-27T20:53:16.174Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-27T21:07:09.189Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-27T21:07:09.192Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T07:15:01.758Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T07:15:53.518Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T07:16:05.660Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-28T07:16:39.902Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-28T07:16:39.904Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-28T07:17:08.148Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-28T07:17:08.150Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-28T07:17:41.310Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-28T07:17:41.312Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T07:18:33.461Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-28T07:23:11.690Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T07:23:14.100Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-28T07:26:00.059Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T07:26:02.320Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-28T07:31:07.862Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T07:31:10.576Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T08:06:07.796Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T08:06:17.884Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-28T08:06:46.139Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-28T08:06:46.142Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-28T08:07:13.349Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-28T08:07:13.351Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T08:08:05.826Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-28T08:09:30.792Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T08:09:32.230Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-28T08:48:14.175Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-28T08:48:14.205Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T08:52:11.858Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-28T08:52:37.355Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T08:52:37.357Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T08:58:42.024Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:01:06.410Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:01:13.665Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:02:56.220Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:03:45.974Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:06:08.292Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:06:27.478Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:16:10.192Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:17:06.024Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:17:53.905Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:18:04.011Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-02-28T09:29:39.274Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:35:18.339Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:35:35.047Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T09:35:49.553Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-28T10:00:10.730Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T10:00:10.734Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-28T10:38:25.587Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T10:38:25.610Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T10:39:34.693Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-28T10:40:59.686Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T10:40:59.690Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-28T10:42:01.541Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T10:42:05.742Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T10:43:18.545Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T10:46:21.900Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-28T10:47:04.970Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T10:47:04.976Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-28T10:55:32.514Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-28T10:55:32.520Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-02-28T10:56:21.158Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T10:56:21.162Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T10:59:10.127Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T10:59:50.608Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T11:00:42.194Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T11:01:10.273Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T11:01:17.954Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T11:01:33.739Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-02-28T11:04:07.900Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-02-28T11:04:07.904Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-28T11:04:34.667Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T11:04:34.672Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-28T15:51:30.842Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T15:51:30.884Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-02-28T15:52:14.332Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-28T15:53:11.230Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T15:53:11.234Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-28T15:54:57.471Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T15:54:58.807Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-28T15:55:57.816Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T15:56:05.208Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-02-28T15:57:24.236Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-02-28T15:57:26.206Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T11:11:48.231Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T11:13:13.786Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T11:13:13.788Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T19:49:17.888Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T19:49:49.070Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T19:49:49.072Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T19:50:30.493Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T19:50:30.494Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T19:50:32.396Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T19:50:32.397Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T19:51:58.177Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T19:51:58.178Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T19:52:38.297Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T19:52:38.300Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T19:52:41.709Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T19:57:11.204Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T19:57:11.206Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-03-03T19:57:30.347Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T19:57:30.348Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T19:58:09.818Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T20:09:13.069Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:09:41.888Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:09:41.890Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:09:59.840Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:09:59.842Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:10:29.285Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:10:29.286Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:10:39.752Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-03-03T20:10:49.380Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:10:49.381Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:11:17.844Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:11:17.845Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:11:20.017Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:11:20.018Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:11:21.645Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:11:21.646Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-03-03T20:11:23.730Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:11:23.732Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:12:06.638Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:12:06.639Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:13:07.003Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:13:07.004Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:13:08.641Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:13:08.642Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:13:51.048Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:13:51.049Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:13:52.861Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:13:52.862Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:13:54.323Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:13:54.323Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:14:33.254Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:14:33.256Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:15:02.406Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:15:02.407Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:15:04.327Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:15:04.328Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:15:05.393Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:15:05.394Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:15:06.417Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:15:06.418Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T20:16:35.678Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:17:15.693Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:17:15.695Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:17:25.510Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:17:25.511Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:18:08.018Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:18:08.019Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T20:18:29.653Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:20:35.681Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:20:37.197Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:20:38.237Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-03-03T20:22:43.464Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:22:44.182Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:23:25.379Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:23:25.381Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:26:48.476Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:26:48.479Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:27:21.842Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:27:21.844Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:27:24.688Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:27:24.690Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:27:25.842Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:27:25.844Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-03-03T20:27:28.150Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:27:28.152Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:27:50.428Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:27:50.430Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-03-03T20:27:53.704Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:27:53.707Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:28:05.325Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:28:05.328Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:30:40.433Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:30:40.434Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:30:56.820Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:30:56.822Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:31:04.292Z"}
+{"code":"404","description":"The requested resource is not available.","level":"error","message":"Error fetching limits: Not Found","timestamp":"2025-03-03T20:31:26.323Z","type":"Status report"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:31:26.325Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T20:35:52.282Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T20:38:01.087Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:38:26.622Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:38:26.625Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:38:53.363Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:38:53.367Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:38:57.598Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:38:57.601Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:38:59.236Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:38:59.238Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:39:00.632Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:39:00.634Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:39:30.117Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:39:30.119Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:39:33.466Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:39:33.467Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:39:34.700Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:39:34.703Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:39:56.849Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:39:56.851Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:40:10.235Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:40:10.238Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:40:11.369Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:40:11.372Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:40:12.344Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:40:12.347Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T20:42:29.351Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:43:11.248Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:43:11.252Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:43:30.129Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:43:30.131Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:43:58.457Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:44:05.660Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:44:36.379Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:44:38.354Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:44:40.125Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:45:12.702Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:45:14.687Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:45:15.918Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:45:51.872Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:45:53.384Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:45:54.616Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:45:55.816Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:46:02.141Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:46:09.897Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:46:32.778Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:46:48.039Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:46:49.177Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:46:50.130Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:46:51.042Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:46:52.015Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:47:19.053Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:47:20.777Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:47:22.270Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:47:23.450Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:48:29.627Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:48:59.828Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:49:09.017Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:49:10.824Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:49:11.864Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:49:13.041Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:49:35.709Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:49:41.312Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:49:41.313Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:49:44.716Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:49:44.716Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:50:08.651Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:50:08.652Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T20:50:41.280Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T20:51:54.217Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T20:51:55.875Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T20:52:32.556Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T20:52:32.559Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:52:49.203Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:52:49.206Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:52:51.171Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:52:51.172Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:52:52.678Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:52:52.680Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T20:52:53.705Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T20:52:53.706Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T20:53:58.182Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:54:22.878Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:54:30.470Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:55:17.921Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:55:19.883Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:55:21.425Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:55:43.997Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:55:59.274Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:56:01.246Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:56:02.277Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:56:03.551Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:56:09.533Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:56:32.980Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:56:47.203Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:57:14.412Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:57:15.747Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:57:16.701Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:57:17.552Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:57:18.794Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:57:26.638Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:58:04.738Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:58:15.508Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:58:22.221Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:58:44.849Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:59:11.103Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:59:13.525Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:59:14.676Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T20:59:20.397Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:00:13.643Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:00:14.721Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:00:15.635Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:00:16.661Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:00:18.009Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:00:23.435Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:01:05.680Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:01:07.217Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:01:08.184Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T21:01:32.747Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T21:01:32.749Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T21:01:55.970Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T21:01:55.971Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T21:02:20.166Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T21:02:20.167Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T21:02:21.541Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T21:02:21.542Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T21:02:22.444Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T21:02:22.445Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T21:02:59.763Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T21:02:59.763Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T21:03:01.835Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T21:03:01.836Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T21:03:04.997Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T21:03:04.998Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-03T21:03:06.554Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-03T21:03:06.555Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:03:45.508Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:03:48.183Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:14.984Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:14.985Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:20.014Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:20.015Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:21.306Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:21.306Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:22.288Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:22.289Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:23.153Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:23.154Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:24.074Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:24.075Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:04:33.540Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:46.209Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:46.210Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:51.070Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:51.071Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:52.281Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:52.283Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:53.310Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:53.311Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:54.168Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:54.169Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:04:55.114Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:04:55.115Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:05:17.054Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:05:17.054Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-03T21:05:27.059Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:05:40.163Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:05:40.164Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-03T21:05:42.664Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-03T21:05:42.664Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T21:06:25.732Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T21:06:51.706Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-03T21:09:15.309Z"}
