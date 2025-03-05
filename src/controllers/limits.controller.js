@@ -6,50 +6,6 @@ const { BASE_URL } = require("../config");
 const { ApiError } = require("../middlewares/error.middleware");
 const { generateHeaders } = require("../utils/request-helpers");
 
-/**
- * Handles API errors and maps them to PayCenter error codes.
- */
-const handleApiError = (error, next) => {
-  logger.error("Error calling PayCenter API:", error.response?.data || error.message);
-
-  if (error.response) {
-    const status = error.response.status;
-    const errorMessage = error.response.data?.description || "Unknown error";
-
-    let errorDetails;
-    switch (status) {
-      case 400:
-        errorDetails = [
-          { code: "PA-1015", description: "Bad request - missing or invalid parameters" },
-        ];
-        break;
-      case 404:
-        errorDetails = [
-          { code: "PA-1003", description: "Resource not found" },
-        ];
-        break;
-      case 409:
-        errorDetails = [
-          { code: "PA-9998", description: "Conflict Error - Limit already exists" },
-        ];
-        break;
-      case 500:
-        errorDetails = [
-          { code: "PA-9999", description: "Internal Server Error - Unexpected failure" },
-        ];
-        break;
-      default:
-        errorDetails = [{ code: "PA-9999", description: "Unhandled API error" }];
-    }
-
-    return next(new ApiError(status, errorMessage, errorDetails));
-  }
-
-  return next(new ApiError(500, "Internal Server Error", [
-    { code: "PA-9999", description: "Unexpected error while processing request" }
-  ]));
-};
-
 // Get Limits
 exports.getLimits = async (req, res, next) => {
   try {
@@ -80,7 +36,21 @@ exports.getLimits = async (req, res, next) => {
 
     res.json(response.data);
   } catch (error) {
-    return handleApiError(error, next);
+    logger.error("Error fetching limits:", error.response?.data || error.message);
+
+    if (error.response?.status === 400) {
+      return next(new ApiError(400, "BadRequest", [
+        { code: "PA-1015", description: "Invalid PaymentNetwork or Identifier" }
+      ]));
+    }
+
+    /*if (error.code === "ECONNABORTED") {
+      return next(new ApiError(504, "Gateway Timeout", [{ code: "TIMEOUT-001", description: "API request timed out" }]));
+    }*/
+
+    return next(new ApiError(500, "Internal Server Error", [
+      { code: "SERVER-001", description: "Unexpected error while fetching limits" }
+    ]));
   }
 };
 
@@ -108,7 +78,7 @@ exports.addLimits = async (req, res, next) => {
 
     res.json(response.data);
   } catch (error) {
-    return handleApiError(error, next);
+    return next(new ApiError(400, "BadRequest", [{ code: "PA-1003", description: "Identifier is required" }]));
   }
 };
 
@@ -136,7 +106,7 @@ exports.updateLimits = async (req, res, next) => {
 
     res.json(response.data);
   } catch (error) {
-    return handleApiError(error, next);
+    return next(new ApiError(400, "BadRequest", [{ code: "PA-1011", description: "Limit range is invalid" }]));
   }
 };
 
@@ -163,6 +133,6 @@ exports.deleteLimits = async (req, res, next) => {
 
     res.status(204).send();
   } catch (error) {
-    return handleApiError(error, next);
+    return next(new ApiError(400, "BadRequest", [{ code: "PA-1025", description: "Invalid limit range" }]));
   }
 };

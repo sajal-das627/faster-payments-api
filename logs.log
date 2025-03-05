@@ -20821,3 +20821,385 @@
 {"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:40:08.969Z"}
 {"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:40:22.840Z"}
 {"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:40:37.416Z"}
+{"level":"error","message":"❌ Error fetching access token:","timestamp":"2025-03-05T10:44:45.519Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T10:45:21.352Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T10:45:21.355Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:46:01.478Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:46:11.031Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:46:48.463Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T10:47:34.426Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:47:56.455Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:47:56.457Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:48:27.251Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:48:27.253Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:48:54.877Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:48:54.878Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:49:20.138Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:49:20.140Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:49:47.880Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:49:47.882Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:50:37.611Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:50:37.612Z"}
+{"description":"Conflict","details":[{"category":"Error","code":"PA-1013","description":"Limit already exists","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":409,"timestamp":"2025-03-05T10:51:17.776Z"}
+{"level":"error","message":"Conflict","timestamp":"2025-03-05T10:51:17.777Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:51:50.541Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:51:50.542Z"}
+{"description":"Conflict","details":[{"category":"Error","code":"PA-1013","description":"Limit already exists","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":409,"timestamp":"2025-03-05T10:52:04.413Z"}
+{"level":"error","message":"Conflict","timestamp":"2025-03-05T10:52:04.416Z"}
+{"description":"Conflict","details":[{"category":"Error","code":"PA-1013","description":"Limit already exists","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":409,"timestamp":"2025-03-05T10:52:54.036Z"}
+{"level":"error","message":"Conflict","timestamp":"2025-03-05T10:52:54.038Z"}
+{"description":"Conflict","details":[{"category":"Error","code":"PA-1013","description":"Limit already exists","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":409,"timestamp":"2025-03-05T10:53:05.479Z"}
+{"level":"error","message":"Conflict","timestamp":"2025-03-05T10:53:05.481Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:53:40.791Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:53:40.792Z"}
+{"description":"Conflict","details":[{"category":"Error","code":"PA-1013","description":"Limit already exists","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":409,"timestamp":"2025-03-05T10:53:49.112Z"}
+{"level":"error","message":"Conflict","timestamp":"2025-03-05T10:53:49.117Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:56:44.033Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:56:44.034Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:57:24.666Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:57:24.667Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:57:50.351Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:57:50.352Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T10:58:14.336Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T10:58:14.337Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T10:58:39.249Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T10:58:39.250Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T10:58:50.428Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T10:58:50.433Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T10:59:04.240Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T10:59:04.240Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T10:59:28.447Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T10:59:28.449Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T10:59:34.020Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T10:59:34.021Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T10:59:38.214Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T10:59:38.216Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:00:02.506Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:00:02.507Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:00:29.492Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:00:29.493Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:01:30.329Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:01:30.330Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:01:55.432Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:01:55.433Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:02:00.412Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:02:00.413Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:02:54.742Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:02:54.743Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:07:52.351Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:07:52.352Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:09:26.529Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:09:26.535Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:10:22.764Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:10:22.766Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:10:28.688Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:10:28.689Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:12:10.194Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:12:10.196Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:12:41.366Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:12:41.367Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:13:07.523Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:13:07.526Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:13:34.446Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:13:34.448Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:13:44.016Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:13:44.018Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:13:47.218Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:13:47.219Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:14:13.416Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:14:13.418Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:14:41.431Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:14:41.432Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:14:52.369Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:14:52.371Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:15:10.255Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:15:10.256Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:15:34.429Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:15:34.431Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:18:47.168Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:18:47.170Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:19:12.466Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:19:12.468Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:19:39.692Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:19:39.695Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:20:04.456Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:20:04.457Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:20:41.236Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:20:41.238Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:20:46.361Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:20:46.363Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:21:11.550Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:21:11.552Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:21:36.802Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:21:36.804Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:21:42.928Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:21:42.930Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:25:52.013Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:25:52.015Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:27:06.774Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:27:06.777Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:27:35.953Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:27:35.955Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:27:45.428Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:27:45.430Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T11:29:04.961Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T11:29:04.963Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T11:29:31.695Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T11:29:31.697Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:30:14.431Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:30:14.432Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:32:28.782Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:32:28.787Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:32:33.099Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:32:33.100Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:32:38.945Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:32:38.948Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:33:58.638Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:33:58.640Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:35:30.682Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:35:30.683Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:35:37.994Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:35:37.996Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T11:35:52.540Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T11:35:58.487Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T11:36:55.123Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T11:37:20.977Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T11:38:31.217Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:38:31.219Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T11:39:08.993Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T11:39:25.502Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:39:57.375Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:39:57.378Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:40:23.509Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:40:23.511Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:40:49.433Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:40:49.435Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T11:41:02.151Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T11:41:27.720Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T11:41:27.725Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T11:41:53.327Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T11:41:53.330Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T11:42:19.504Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T11:42:19.506Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T11:43:12.474Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:43:35.443Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:43:35.446Z"}
+{"description":"NotFound","details":[{"category":"Error","code":"PA-1016","description":"RoutingNumber not found","element":"routingNumber","elementValue":"810000040","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":404,"timestamp":"2025-03-05T11:43:43.135Z"}
+{"level":"error","message":"NotFound","timestamp":"2025-03-05T11:43:43.139Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:44:07.700Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:44:07.701Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:44:34.453Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:44:34.455Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:44:59.382Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:44:59.384Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:45:34.609Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:45:34.611Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:46:00.444Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:46:00.447Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:46:41.435Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:46:41.436Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:48:17.107Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:48:17.109Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T11:49:01.455Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T11:49:01.457Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:49:20.327Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:49:20.329Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:49:25.258Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:49:25.261Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:49:49.458Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:49:49.460Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:50:19.536Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:50:19.537Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:50:50.218Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:50:50.220Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T11:51:52.635Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T11:51:52.637Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:51:57.079Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:51:57.081Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:52:35.312Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:52:35.314Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T11:55:17.992Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T11:55:17.995Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T12:02:47.964Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T12:02:55.774Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:05:18.074Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:05:18.078Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:08:29.646Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:08:29.652Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:09:44.779Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:09:44.784Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:10:11.544Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:10:11.547Z"}
+{"description":"Conflict","details":[{"category":"Error","code":"PA-1013","description":"Limit already exists","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":409,"timestamp":"2025-03-05T12:10:33.544Z"}
+{"level":"error","message":"Conflict","timestamp":"2025-03-05T12:10:33.549Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:10:59.542Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:10:59.547Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:11:33.557Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:11:33.560Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:11:58.581Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:11:58.586Z"}
+{"description":"NotFound","details":[{"category":"Error","code":"PA-1014","description":"Limit not found","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":404,"timestamp":"2025-03-05T12:12:06.844Z"}
+{"level":"error","message":"NotFound","timestamp":"2025-03-05T12:12:06.849Z"}
+{"description":"NotFound","details":[{"category":"Error","code":"PA-1014","description":"Limit not found","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":404,"timestamp":"2025-03-05T12:12:11.858Z"}
+{"level":"error","message":"NotFound","timestamp":"2025-03-05T12:12:11.863Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:12:23.749Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:12:23.755Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:12:47.376Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:12:47.380Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:13:17.586Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:13:17.596Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:13:45.612Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:13:45.616Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:13:57.972Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:13:57.979Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:14:42.720Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:14:42.724Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:15:10.458Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:15:10.461Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:15:48.890Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:15:48.893Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:16:06.457Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:16:06.460Z"}
+{"description":"NotFound","details":[{"category":"Error","code":"PA-1014","description":"Limit not found","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":404,"timestamp":"2025-03-05T12:16:12.885Z"}
+{"level":"error","message":"NotFound","timestamp":"2025-03-05T12:16:12.890Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:16:37.651Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:16:37.654Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:17:43.820Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:17:43.824Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:18:08.574Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:18:08.578Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:18:30.395Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:18:30.397Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:19:21.625Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:19:21.630Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:19:33.123Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:19:33.128Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:20:01.627Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:20:01.629Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:20:32.196Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:20:32.199Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:20:59.636Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:20:59.639Z"}
+{"description":"NotFound","details":[{"category":"Error","code":"PA-1014","description":"Limit not found","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":404,"timestamp":"2025-03-05T12:21:07.252Z"}
+{"level":"error","message":"NotFound","timestamp":"2025-03-05T12:21:07.257Z"}
+{"description":"NotFound","details":[{"category":"Error","code":"PA-1014","description":"Limit not found","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":404,"timestamp":"2025-03-05T12:21:20.944Z"}
+{"level":"error","message":"NotFound","timestamp":"2025-03-05T12:21:20.948Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:21:54.814Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:21:54.819Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:22:09.108Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:22:09.112Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:22:32.588Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:22:32.592Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:22:45.935Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:22:45.939Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:23:06.011Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:23:06.016Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:23:35.651Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:23:35.655Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:23:47.975Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:23:47.981Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:24:19.434Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:24:19.439Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:25:05.150Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:25:05.154Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:25:32.192Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:25:32.196Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:26:05.636Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:26:05.640Z"}
+{"description":"NotFound","details":[{"category":"Error","code":"PA-1014","description":"Limit not found","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":404,"timestamp":"2025-03-05T12:26:16.187Z"}
+{"level":"error","message":"NotFound","timestamp":"2025-03-05T12:26:16.191Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:26:59.114Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:26:59.118Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:27:17.870Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:27:17.874Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:27:48.366Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:27:48.370Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:28:16.614Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:28:16.618Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:29:07.639Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:29:07.642Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:30:20.375Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:30:20.377Z"}
+{"description":"NotFound","details":[{"category":"Error","code":"PA-1014","description":"Limit not found","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":404,"timestamp":"2025-03-05T12:30:42.830Z"}
+{"level":"error","message":"NotFound","timestamp":"2025-03-05T12:30:42.834Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:30:55.383Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:30:55.389Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:31:11.685Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:31:11.688Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:32:55.210Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:32:55.214Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:40:14.619Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:40:14.622Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:40:41.601Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:40:41.602Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:42:33.701Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:42:33.704Z"}
+{"description":"NotFound","details":[{"category":"Error","code":"PA-1014","description":"Limit not found","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":404,"timestamp":"2025-03-05T12:43:06.934Z"}
+{"level":"error","message":"NotFound","timestamp":"2025-03-05T12:43:06.940Z"}
+{"description":"NotFound","details":[{"category":"Error","code":"PA-1014","description":"Limit not found","element":"limits[0]","elementValue":null,"location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":404,"timestamp":"2025-03-05T12:43:19.754Z"}
+{"level":"error","message":"NotFound","timestamp":"2025-03-05T12:43:19.762Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:43:33.188Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:43:33.190Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:43:45.355Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:43:45.359Z"}
+{"description":"BadRequest","details":[{"category":"Error","code":"2025","description":"LimitCapPerTransaction cannot be greater than LimitCapWeekly","element":"","elementValue":"","location":"/api/v1/institutions/810000040/environments/Sandbox/products/faster-payments/limits"}],"level":"error","message":"Error calling PayCenter API:","messageSource":"PayCenter API","responseCode":400,"timestamp":"2025-03-05T12:44:14.213Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:44:14.216Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T12:44:30.639Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T12:44:30.641Z"}
+{"level":"error","message":"Error calling PayCenter API:","timestamp":"2025-03-05T12:44:56.678Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:44:56.679Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error calling PayCenter API: Invalid Credentials","timestamp":"2025-03-05T12:45:07.787Z"}
+{"level":"error","message":"Invalid JWT token. Make sure you have provided the correct security credentials","timestamp":"2025-03-05T12:45:07.791Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T12:45:18.988Z"}
+{"level":"error","message":"❌ Error fetching access token:","timestamp":"2025-03-05T12:45:45.673Z"}
+{"level":"error","message":"❌ Error fetching access token:","timestamp":"2025-03-05T12:46:15.682Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T12:46:43.444Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T12:46:43.447Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T12:47:10.395Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T12:47:10.399Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T12:47:36.671Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T12:47:36.675Z"}
+{"level":"error","message":"❌ Error fetching access token:","timestamp":"2025-03-05T12:48:27.420Z"}
+{"level":"error","message":"❌ Error fetching access token:","timestamp":"2025-03-05T12:48:55.680Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T12:49:03.560Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T12:49:26.658Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T12:49:26.661Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:50:06.558Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:50:16.518Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:50:25.290Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:50:35.006Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:51:00.501Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:51:27.663Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:52:01.650Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:52:08.326Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:52:50.667Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:53:16.682Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:54:01.675Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:54:15.415Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:54:26.210Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:54:37.412Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:54:53.625Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:55:18.794Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:55:35.162Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:56:00.316Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:56:25.713Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:56:37.691Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:56:47.806Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:57:13.720Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:57:38.350Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:57:56.418Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:58:13.170Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:58:37.422Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T12:59:43.344Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:00:00.204Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:00:12.977Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:00:24.359Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:01:56.746Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:02:22.804Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:02:50.776Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:03:27.591Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:04:06.762Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:04:34.495Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:04:51.139Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:05:21.896Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T13:06:06.565Z"}

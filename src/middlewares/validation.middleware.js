@@ -123,8 +123,8 @@ const limitsSchema = Joi.object({
   limits: Joi.array()
     .items(
       Joi.object({
-        type: Joi.string().valid("FundingCap").required().error(new Error("PA-1024: Type is invalid")),
-        range: Joi.string().valid("Daily", "SevenDays", "ThirtyDays").required().error(new Error("PA-1025: Range is invalid")),
+        type: Joi.string().valid("FundingCap", "FundingVelocity").required().error(new Error("PA-1024: Type is invalid")),
+        range: Joi.string().valid("PerTransaction", "Daily", "SevenDays", "ThirtyDays").required().error(new Error("PA-1025: Range is invalid")),
         limitValue: Joi.number().positive().required().error(new Error("PA-1012: Limit Value is invalid")),
       })
     )
@@ -139,8 +139,8 @@ const deleteLimitsSchema = Joi.object({
   limits: Joi.array()
     .items(
       Joi.object({
-        type: Joi.string().valid("FundingCap").required().error(new Error("PA-1024: Type is invalid")),
-        range: Joi.string().valid("Daily", "SevenDays", "ThirtyDays").required().error(new Error("PA-1025: Range is invalid")),
+        type: Joi.string().valid("FundingCap", "FundingVelocity").required().error(new Error("PA-1024: Type is invalid")),
+        range: Joi.string().valid("PerTransaction", "Daily", "SevenDays", "ThirtyDays").required().error(new Error("PA-1025: Range is invalid")),
       })
     )
     .min(1)
