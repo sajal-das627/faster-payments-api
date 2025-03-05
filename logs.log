@@ -20170,3 +20170,654 @@
 {"level":"error","message":"Authentication Error","timestamp":"2025-03-04T20:01:50.602Z"}
 {"level":"error","message":"Error generating token:","timestamp":"2025-03-04T20:02:16.008Z"}
 {"level":"error","message":"Authentication Error","timestamp":"2025-03-04T20:02:16.009Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-04T20:05:25.314Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-04T20:05:25.317Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:05:55.798Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-04T20:06:01.994Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-04T20:06:01.995Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-04T20:06:03.702Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-04T20:06:03.703Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:06:27.561Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:06:29.763Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-04T20:06:42.036Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-04T20:06:42.037Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-04T20:08:23.189Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-04T20:08:23.191Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:08:30.736Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:08:32.339Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:08:33.234Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:08:34.021Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:08:34.861Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-04T20:10:44.093Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-04T20:10:58.385Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:11:17.186Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:11:40.663Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:11:42.693Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:11:44.452Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:11:45.470Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:11:46.425Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:11:47.552Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:11:52.035Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:12:20.189Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:12:22.303Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:12:23.221Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:12:24.147Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:12:25.090Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:12:26.030Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:12:33.780Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:12:52.874Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:12:56.554Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:12:58.174Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:12:59.200Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:13:05.317Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:13:10.846Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:13:16.129Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:13:38.535Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:13:41.516Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:13:42.962Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:13:43.920Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:13:45.454Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:13:52.839Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:14:19.790Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:14:29.865Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:14:32.251Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:14:33.389Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:14:34.316Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:14:39.351Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:15:01.725Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:15:32.472Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:15:33.632Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:15:34.454Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:15:35.301Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:15:57.887Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:16:25.997Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:16:56.682Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:16:59.748Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:17:02.063Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:17:04.316Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:17:26.373Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:17:32.954Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:17:34.691Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:17:35.794Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:17:37.158Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:18:01.859Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:18:25.712Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:18:26.879Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:18:27.820Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:18:29.195Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:18:30.242Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:18:52.255Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:19:23.490Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:19:25.048Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:19:25.949Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:19:27.071Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:19:33.004Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:19:50.157Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:19:56.107Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:19:57.972Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:20:20.180Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:21:01.658Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:21:03.560Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:21:04.567Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:21:05.542Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:21:28.056Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:22:16.195Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:22:19.429Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:22:22.098Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:22:24.016Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:22:25.659Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:22:27.205Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:00.942Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:03.079Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:04.070Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:08.929Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:11.293Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:24.426Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:26.974Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:28.956Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:31.319Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:32.482Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:33.423Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:23:35.173Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:27:39.861Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:30:01.776Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:30:03.566Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:30:05.132Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:30:07.370Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-04T20:33:19.627Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-04T20:33:19.627Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-04T20:33:42.969Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-04T20:33:42.970Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-04T20:33:44.899Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-04T20:33:44.901Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-04T20:33:45.970Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-04T20:33:45.971Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-04T20:33:46.870Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-04T20:33:46.871Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-04T20:33:48.140Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-04T20:33:48.141Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:15.779Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:16.987Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:18.045Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:19.157Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:20.139Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:21.184Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:23.011Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:25.917Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:43.419Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:45.327Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:56.682Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:57.664Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:58.683Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:34:59.874Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:01.483Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:02.997Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:04.925Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:06.497Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:08.523Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:10.345Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:12.105Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:13.814Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:16.011Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:17.663Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:19.483Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:21.038Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:22.781Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:24.615Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:51.662Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:52.883Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:53.801Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:54.586Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:55.652Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:56.550Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:35:58.372Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:33.245Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:34.476Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:35.500Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:38.456Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:40.109Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:41.733Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:43.194Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:44.934Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:46.504Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:48.550Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:50.340Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:52.013Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:53.472Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:55.196Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:56.951Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:36:58.582Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:37:04.522Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:37:05.508Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:37:06.407Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:37:07.372Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:37:09.488Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:37:11.090Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:37:12.727Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:37:14.216Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:37:20.858Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:39:43.059Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:39:45.707Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:39:48.099Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:40:24.194Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:40:25.679Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:40:26.519Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:40:27.430Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:40:28.282Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:40:30.395Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:40:32.602Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:40:34.172Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:40:36.162Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:40:39.547Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:41:07.786Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:41:09.922Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:41:11.424Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:41:12.439Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:41:14.611Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:41:45.048Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:46:14.477Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-04T20:46:16.629Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T06:41:51.884Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:05:45.899Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:05:45.902Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T07:07:47.430Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:08:09.269Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:08:09.271Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:08:34.764Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:08:34.766Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:10:13.784Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:10:42.542Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:11:22.321Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:11:31.715Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:12:08.841Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:13:03.115Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:13:18.621Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:13:49.089Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:14:07.504Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:14:31.407Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:14:50.570Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:15:03.761Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:15:06.414Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:15:16.529Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:15:29.588Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:15:48.696Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:15:54.418Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:16:19.473Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:16:32.476Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:16:34.544Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:16:45.439Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:17:05.636Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:17:11.340Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:17:13.318Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:17:15.358Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:17:15.632Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:17:53.761Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:17:53.763Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:17:58.798Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:17:58.800Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:18:17.170Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:18:26.746Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:18:26.747Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:18:33.510Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:18:56.129Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:18:56.131Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:19:28.484Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:19:28.485Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:19:33.294Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:19:39.813Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:19:39.814Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:19:41.504Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:19:41.505Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:19:42.982Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:19:42.983Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:20:07.617Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:20:07.619Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:20:14.338Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:20:14.339Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:20:53.510Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:20:53.512Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:22:45.097Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:22:45.098Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:23:09.508Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:23:09.509Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:23:19.466Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:23:24.190Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:23:34.517Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:23:34.518Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:23:48.741Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:23:48.743Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:24:00.668Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:24:00.669Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:24:24.534Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:24:24.535Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:24:54.587Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:24:54.589Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:25:01.790Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:25:01.792Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:25:32.490Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:25:32.491Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:25:58.957Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:25:58.958Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:26:04.264Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:26:04.265Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:26:38.476Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:26:44.448Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:26:44.450Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:26:52.206Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:26:52.207Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:27:30.271Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:27:30.273Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:27:55.466Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:27:55.467Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:28:24.182Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:28:24.183Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:28:56.713Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:28:56.715Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:29:25.435Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:29:25.435Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:30:12.321Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:30:12.323Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:30:19.269Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:30:19.270Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:30:43.876Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:30:43.877Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:30:55.403Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:31:09.581Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:31:09.582Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:31:32.627Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:31:32.629Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:31:48.770Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:31:48.772Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:32:35.394Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:32:35.395Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:32:59.619Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:32:59.621Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:33:04.403Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:33:04.404Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:33:33.943Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:33:33.945Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:34:03.055Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:34:03.057Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:34:31.966Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:34:31.968Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:35:07.458Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:35:07.460Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:35:12.387Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:35:12.389Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:35:18.995Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:35:18.997Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:35:42.884Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:35:42.888Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:35:44.236Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:35:44.237Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:35:45.462Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:35:45.463Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:36:09.970Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:36:09.972Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:36:18.244Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:36:47.519Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:36:47.521Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:37:14.360Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:37:14.362Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:37:25.298Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:37:25.301Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:37:51.930Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:37:51.932Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:38:42.043Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:38:42.044Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:39:35.969Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:39:35.971Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:39:41.294Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:39:41.296Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:39:46.905Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:39:46.907Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:39:49.507Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:39:49.508Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:39:53.402Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:39:53.404Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:39:56.562Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:40:01.395Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:40:04.859Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:40:32.032Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:40:32.034Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:41:33.134Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:41:33.135Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:41:58.632Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:41:58.633Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:43:28.085Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:43:28.086Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:43:32.141Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:43:32.143Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:43:45.577Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:43:45.579Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:43:59.235Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:43:59.237Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:44:00.215Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:44:00.216Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:44:10.069Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:44:10.071Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:44:12.967Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:44:12.969Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:44:28.605Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:44:28.606Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:44:44.525Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:44:44.526Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T07:44:57.518Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T07:44:57.519Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:46:14.162Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:46:14.164Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:46:18.237Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:46:18.238Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:46:20.617Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:46:20.618Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:46:25.108Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:46:25.110Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:46:39.187Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:46:39.187Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:46:50.068Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:46:52.061Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:46:52.483Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:46:52.485Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:46:55.505Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:47:04.612Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:47:04.613Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:47:13.827Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:47:13.828Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:47:16.838Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:47:21.074Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:48:44.094Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:48:44.096Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:49:08.070Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:49:08.071Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:50:09.952Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:50:09.954Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:50:36.062Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:50:36.063Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:51:20.055Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:51:20.056Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:51:46.075Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:51:46.076Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T07:51:48.650Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:52:11.448Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:52:11.450Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:52:17.091Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:52:17.093Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:52:20.879Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:52:20.881Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:52:23.357Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:52:23.359Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:52:47.082Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:52:47.083Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:53:03.833Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:53:03.834Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:53:30.936Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:53:30.937Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:54:11.983Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:54:11.984Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T07:55:12.942Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:55:12.949Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T07:57:50.140Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T07:57:50.141Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T08:01:08.173Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:01:08.174Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:02:37.931Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:02:37.933Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:03:29.102Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:03:29.103Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T08:03:54.077Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:03:54.078Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:05:58.875Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:05:58.877Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T08:07:39.281Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:07:39.282Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T08:08:07.982Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T08:08:07.983Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T08:08:24.102Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T08:08:45.407Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:08:45.408Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T08:09:21.738Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T08:09:21.739Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T08:09:46.362Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T08:09:46.363Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T08:10:13.114Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T08:10:13.115Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T08:11:03.260Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:11:03.261Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:11:08.881Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:11:08.883Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:11:11.623Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:11:11.624Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T08:11:22.439Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:11:22.440Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T08:13:38.005Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T08:13:38.006Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T08:13:54.415Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T08:13:54.416Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T08:14:54.140Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T08:14:54.141Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:15:48.976Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:15:48.978Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:15:55.126Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:15:55.128Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T08:16:20.087Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:17:01.179Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:17:01.181Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:56:31.868Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:56:31.870Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T08:56:57.128Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:56:57.129Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:57:01.112Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:57:01.114Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:57:05.745Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:57:05.747Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:57:08.369Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:57:08.370Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T08:57:34.600Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T08:57:34.602Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:57:43.534Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:57:43.536Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:57:47.880Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:57:47.881Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T08:58:11.460Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:58:11.462Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T08:58:16.187Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:58:16.188Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T08:59:24.431Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T08:59:24.432Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T09:01:19.153Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T09:01:19.155Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:01:47.020Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:01:54.879Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T09:02:13.978Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T09:02:13.979Z"}
+{"code":"900901","description":"Invalid JWT token. Make sure you have provided the correct security credentials","level":"error","message":"Error fetching limits: Invalid Credentials","timestamp":"2025-03-05T09:04:30.898Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T09:04:30.899Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T09:04:55.644Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T09:04:55.645Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T09:05:52.447Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T09:05:52.448Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T09:08:37.991Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T09:08:37.992Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T09:09:34.431Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:10:38.577Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:11:03.643Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:11:31.170Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:11:43.906Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:12:43.353Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:13:21.676Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:13:47.544Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:14:30.133Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:14:31.793Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:15:05.472Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:16:11.453Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:16:42.903Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:17:05.841Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:18:31.136Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:19:04.090Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:19:08.659Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:19:42.757Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:19:51.929Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:20:38.125Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:21:14.520Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:22:22.730Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:22:53.488Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:24:11.705Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:24:37.821Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:25:02.492Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:26:09.410Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:26:35.042Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:26:38.147Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:27:03.131Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:27:18.629Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:27:26.726Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:27:46.157Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:28:18.818Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:28:48.181Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:29:01.487Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:29:52.132Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:30:39.546Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:30:55.703Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:34:50.956Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:36:32.372Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:37:35.259Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:37:35.364Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:38:12.429Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:38:57.875Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:39:31.160Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:39:59.155Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:40:03.154Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:40:37.142Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:41:49.061Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:42:12.202Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:42:13.665Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:42:40.696Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:43:12.207Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:43:15.263Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:43:57.567Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:44:09.156Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:44:57.364Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:46:04.949Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T09:46:53.947Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T09:47:09.839Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:48:09.863Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:48:45.148Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:50:18.614Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T09:50:55.146Z"}
+{"level":"error","message":"❌ Error fetching access token:","timestamp":"2025-03-05T09:51:26.966Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T09:51:38.548Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:52:02.227Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T09:52:16.583Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T09:52:16.585Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T09:52:34.856Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T09:53:07.531Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T09:53:07.533Z"}
+{"level":"error","message":"Error generating token:","timestamp":"2025-03-05T09:54:11.544Z"}
+{"level":"error","message":"Authentication Error","timestamp":"2025-03-05T09:54:11.547Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T09:54:30.967Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:54:54.219Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T09:54:57.634Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T09:54:57.635Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:55:09.340Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T09:55:23.347Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T09:55:23.348Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:55:28.216Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T09:55:56.554Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T09:55:56.556Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T09:56:58.184Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T09:56:58.186Z"}
+{"level":"error","message":"Error fetching limits:","timestamp":"2025-03-05T09:57:26.402Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2025-03-05T09:57:26.404Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:59:09.937Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T09:59:57.779Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:00:03.608Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:00:23.215Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:00:59.207Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:00:59.210Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:02:27.706Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:03:23.199Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:03:43.202Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:03:56.228Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:04:57.800Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:07:18.220Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:07:40.246Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:10:22.575Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:11:12.926Z"}
+{"level":"error","message":"❌ Error fetching access token:","timestamp":"2025-03-05T10:11:59.987Z"}
+{"level":"error","message":"❌ Error fetching access token:","timestamp":"2025-03-05T10:12:15.026Z"}
+{"level":"error","message":"❌ Error fetching access token:","timestamp":"2025-03-05T10:13:10.226Z"}
+{"level":"error","message":"❌ Error fetching access token:","timestamp":"2025-03-05T10:13:14.216Z"}
+{"level":"info","message":"🔑 New access token acquired.","timestamp":"2025-03-05T10:13:29.145Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:13:52.278Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:16:04.233Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:16:32.978Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:16:45.514Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:17:35.122Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:18:02.337Z"}
+{"level":"error","message":"BadRequest","timestamp":"2025-03-05T10:18:49.323Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:27:28.808Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:30:09.011Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:38:08.821Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:39:47.727Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:40:08.969Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:40:22.840Z"}
+{"level":"info","message":"🚀 Server running on port 6000","timestamp":"2025-03-05T10:40:37.416Z"}
